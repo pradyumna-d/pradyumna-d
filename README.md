@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="left" style="display: flex; flex-wrap: nowrap; gap: 20px;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     <p style="font-size: 12px; margin: 5px 0 0 0;">JavaScript</p>
