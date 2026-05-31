@@ -10,7 +10,7 @@ Full-Stack Engineer building scalable software, cloud-native infrastructure, and
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pradyumna-d&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=pradyumna-d&theme=tokyonight&timezone=Asia/Kolkata" height="160" />
 </div>
 
 ###
